@@ -1,0 +1,15 @@
+# Node.js / React Native / Flutter ignore
+node_modules/
+android/
+ios/
+.env
+*.log
+dist/
+build/
+*.zip
+*.rar
+*.gba
+*.sav
+*.iso
+*.exe
+*.bin
